@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Air Jordan 1 Mid SE",
+        "precio": 285,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/158861-800-800?v=638086325341700000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id":2 ,
+        "nombre": "Jordan Max Aura 4",
+        "precio": 260,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/702800-800-800?v=638233933233000000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id":3 ,
+        "nombre": "Jordan Delta 3 Low",
+        "precio": 300,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/700151-800-800?v=638229717615000000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id":4 ,
+        "nombre": "Air Jordan Dub Zero",
+        "precio": 330,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/528882-800-800?v=638161343328270000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    }
+]
